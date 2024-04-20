@@ -12,16 +12,18 @@ Temizlenen alan miktarı, Trim işlemi tamamlandığında gösterilecektir.
 
 Repository'yi klonlayın:
 
-'git clone https://github.com/OmerAti/trim-script.git'
+```git clone https://github.com/OmerAti/trim-script.git```
 
 Scripte çalıştırma izni verin:
 
-chmod +x trim.sh
+```chmod +x trim.sh```
 
 Scripti çalıştırın:
 
-./trim.sh
+```./trim.sh```
 
 Katkıda Bulunma
 Hatalarınızı veya önerilerinizi Issues bölümünde paylaşabilirsiniz.
 Pull request'lerle katkıda bulunarak scripti geliştirebilirsiniz.
+
+https://www.jrodix.com
