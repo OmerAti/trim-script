@@ -5,13 +5,14 @@ Bu bash scripti, SSD (Solid-State Drive) üzerinde Trim işlemini otomatik olara
 Otomatik Trim işlemi
 Temizlenen alan miktarının gösterilmesi
 Otomatik olarak systemd servis dosyasının oluşturulması ve etkinleştirilmesi
+
 Kullanım
 trim.sh scriptini çalıştırarak Trim işlemini başlatın.
 Temizlenen alan miktarı, Trim işlemi tamamlandığında gösterilecektir.
 
 Repository'yi klonlayın:
 
-git clone https://github.com/OmerAti/trim-script.git
+'git clone https://github.com/OmerAti/trim-script.git'
 
 Scripte çalıştırma izni verin:
 
